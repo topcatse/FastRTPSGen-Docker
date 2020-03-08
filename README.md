@@ -1,6 +1,8 @@
 ## Fast RTPS Gen Docker
 
-eProsima FASTRTPSGEN is a Java application that generates source code using the data types defined in an IDL file. This generated source code can be used in your applications in order to publish and subscribe to a topic of your defined type. Cf. <https://fast-rtps.docs.eprosima.com/en/latest/geninfo.html#fastrtpsgen-intro>.
+eProsima FASTRTPSGEN is a Java application that generates source code using the data types defined in an IDL file. This generated source code can be used in your applications in order to publish and subscribe to a topic of your defined type.
+
+Based on <https://github.com/eProsima/Fast-RTPS-Gen>, cf. <https://fast-rtps.docs.eprosima.com/en/latest/geninfo.html#fastrtpsgen-intro> how to use.
 
 To build the image:
 
